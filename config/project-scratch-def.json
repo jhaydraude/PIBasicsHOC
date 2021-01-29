@@ -1,18 +1,13 @@
 {
-  "orgName": "jhaydraude company",
+  "orgName": "Partner Intelligence Basics HOC",
   "edition": "Developer",
-  "features": [],
+  "features": ["DevelopmentWave","WavePlatform"],
   "settings": {
     "lightningExperienceSettings": {
-      "enableS1DesktopEnabled": true
+        "enableS1DesktopEnabled": true
     },
-    "securitySettings": {
-      "passwordPolicies": {
-        "enableSetPasswordInApi": true
-      }
-    },
-    "mobileSettings": {
-      "enableS1EncryptedStoragePref2": false
+    "appAnalyticsSettings": {
+      "enableSimulationMode": true
     }
   }
 }
